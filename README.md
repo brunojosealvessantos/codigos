@@ -1,2 +1,2 @@
 # codigos
-Repositório de códigos de projetos de RPA
+Repositório de códigos de um programa web para calculo do peso ideal.

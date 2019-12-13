@@ -8,7 +8,5 @@ function limparCampos(){
     document.getElementById("outResposta").textContent = "";
     document.getElementById("inNome").focus();
 }
-
-
 var btLimpar = document.getElementById("btLimpar");
 btLimpar.addEventListener("click", limparCampos);
