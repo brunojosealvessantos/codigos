@@ -1,17 +1,8 @@
-# codigos
-# <h>Repositório de códigos de um programa.</h>
+# <h>Programa WEB para o cálculo do peso ideal.</h>
 
+###TITULO DO PROJETO: Calculadora do peso ideal
+###OBJETIVO DO PROJETO:Calcular o peso ideal de uma pessoal qualquer.
+###VERSÃO ou DATA: 19/01/2020
+###AUTORES:BRUNO JOSÉ ALVES SANTOS
 
-###----------------------------------------------------------------------------
-###Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-###Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-###ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-###------------------------------------------------------------------------
-
-###TITULO DO PROJETO: 
-###OBJETIVO DO PROJETO:
-###VERSÃO ou DATA:
-###COMO INICIAR O PROJETO:
-###AUTORES:
-###INSTRUÇÕES PARA O USUÁRIO:
 
