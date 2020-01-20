@@ -1,6 +1,5 @@
 function limparCampos(){
 
-
     document.getElementById("inNome").value = "";
     document.getElementById("rbMasculino").checked = false;
     document.getElementById("rbFeminino").checked = false;
